@@ -1,7 +1,7 @@
 <template>
   <main>
     <h1>Home</h1>
-    <button v-on:click="getShowcases">Showcases</button>
+    <button v-on:click="getShowcases">Showcasess</button>
   <pre>{{ showcases }}</pre>
   </main>
 </template>
